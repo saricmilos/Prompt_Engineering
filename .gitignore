@@ -1,6 +1,6 @@
 # Ignore Python virtual environments
 venv/
-prompt_engineering/
+prompt_venv/
 
 # FLY 
 *.toml
