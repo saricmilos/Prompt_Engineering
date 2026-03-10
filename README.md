@@ -107,8 +107,8 @@ A structured, hands-on curriculum for mastering prompt engineering — from foun
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/prompt-engineering.git
-cd prompt-engineering
+git clone https://github.com/saricmilos/Prompt_Engineering.git
+cd Prompt_Engineering
 
 # Install dependencies
 pip install -r requirements.txt
@@ -123,7 +123,7 @@ Create a `.env` file in the root directory:
 
 ```env
 OPENAI_API_KEY=your_key_here
-ANTHROPIC_API_KEY=your_key_here
+HUGGINFACE_API_KEY=your_key_here
 ```
 
 ---
