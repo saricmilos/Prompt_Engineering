@@ -112,9 +112,6 @@ cd Prompt_Engineering
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Launch Jupyter
-jupyter lab
 ```
 
 ### Environment Setup
